@@ -1,1 +1,1 @@
-"# betterSHA256" 
+# betterSHA256
